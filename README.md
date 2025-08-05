@@ -1,4 +1,4 @@
 # Apna-collage-demo
 This is my first git repository
-<b>
+<br>
 Author - Shivam jha
